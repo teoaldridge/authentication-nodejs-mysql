@@ -47,4 +47,14 @@ USER=your-database-user
 PASSWORD=your-database password
 DATABASE=your-database-name
 ```
+## Start the Server
+```bash
+npm start
+```
+## Access the application
+You can open your browser and navigate to http://localhost:your-chosen-port
+
+## Try out the application in Postman
+POST to http://localhost:your-chosen-port/register, add body -> select x-www-form-urlencoded -> add user email and user password 
+POST to http://localhost:your-chosen-port/login, add body -> select x-www-form-urlencoded -> add user email and user password 
 
