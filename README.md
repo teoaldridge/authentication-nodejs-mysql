@@ -12,8 +12,8 @@ This project is based on the [tutorial by Nuel Obeto](https://dev.to/nuelobeto/b
 - Input Validation: Validates user inputs to ensure data integrity.
 - Environment Configuration: Uses dotenv to manage environment variables.
   
-Tech Stack
-Node.js - Backend framework
+## Tech Stack
+- Node.js - Backend framework
 - express: A popular web framework for building APIs and web applications.
 - cors: Middleware for handling Cross-Origin Resource Sharing (CORS).
 - dotenv: A package for managing environment variables.
